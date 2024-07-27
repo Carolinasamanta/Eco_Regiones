@@ -1,0 +1,133 @@
+
+---
+title: "Ecología de Regiones y Paisajes"
+date: 2024
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    theme: spacelab
+---
+<style>
+/* General TOC styles */
+.tocify ul, .tocify li {
+  list-style-type: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: none !important;
+}
+
+/* Background and text color for header, subheader, and items */
+.tocify .tocify-header,
+.tocify .tocify-subheader,
+.tocify-item {
+  background-color: #81c784 !important; /* Uniform green color for all elements */
+  color: #2e7d32 !important; /* Dark green text color */
+  padding: 10px !important;
+  border: none !important;
+  border-radius: 5px !important; /* Rounded corners for buttons */
+  margin-bottom: 10px !important; /* Space between buttons */
+}
+
+/* Hover effect for TOC items */
+.tocify-item:hover {
+  background-color: #388e3c !important; /* Darker green on hover */
+  color: #FFFFFF !important; /* White text on hover */
+}
+
+/* Style for the active item */
+.tocify-focus {
+  background-color: #66bb6a !important; /* Different green for the active item */
+  color: #FFFFFF !important; /* White text for the active item */
+  border-left: 3px solid #388e3c !important; /* Left border for the active item */
+  border-radius: 5px !important; /* Ensure rounded corners */
+}
+</style>
+
+
+
+### **Facultad de Ciencias Exactas y Naturales - UBA**
+
+**__________________________________________________________**
+
+### En esta pagina encontrará información de cuatro cursos:
+
+#### 1) Ecología Regional 
+(curso de grado, plan 1984)
+
+#### 2) Ecología de Paisajes y Regiones 
+(curso de grado, plan 2019)
+
+#### 3) Fundamentos de la Ecología de Paisajes y Regiones
+(curso de posgrado 160hs, 5 puntos, Res. CD N° 1977/21)
+
+#### 4) Sistemas de Información Geográficos y Teledetección: Principios y aplicaciones para la incorporación de la información espacial a los modelos en ecología 
+(curso de posgrado 88hs, 4 puntos).
+
+Los primeros tres cursos comparten su programa y cronograma, mientras que el cuarto curso corresponde a la segunda parte de los primeros por lo que tiene un cronograma distinto. 
+
+______________________________________________________
+
+# DOCENTES
+
+### Profesor
+Dr. Regino Cavia (DEGE – FCEN)
+Lab. 63, 4º piso, Pabellón II,
+Ciudad Universitaria.
+Tel: (011) 5285 – 8648
+
+### Jefe de Trabajos Prácticos
+Dr. Sebastian Torrella (DEGE – FCEN)
+
+### Ayudante de Primera
+Dra. Carolina S. Ramos (IGN y DEGE – FCEN)
+
+______________________________________________________
+
+# PROGRAMA ANALÍTICO
+A continuación se detalla el PROGRAMA ANALÍTICO de los siguientes cursos: **Ecología Regional** (materia de grado plan 1984), **Ecología de Paisajes y Regiones** (materia de grado plan 2019) y **Fundamentos de la Ecología de Paisajes y Regiones (curso de posgrado 160hs, 5 puntos, Res. CD N° 1977/21)**. Estos tres cursos comparten programa analítico y cronograma.
+
+### I – LA REGIÓN Y EL PAISAJE DESDE LA ECOLOGÍA
+
+La región y el paisaje como conceptos en ecología y como objeto de estudio. La aproximación regional y su aplicación en cada momento de la historia. El tratamiento geográficos, el ecológico y el de las ciencias sociales. El análisis de sistemas como enfoque integrador.
+
+### II – LA UBICACIÓN ESPACIAL, EL CONCEPTO DEL ESPACIO GEOGRAFICO
+
+Ubicación espacial y topología. El espacio implícito y el espacio explícito. Modelos de datos y modelos espacialmente explícitos. Cartografía como expresión de modelos ecológicos espaciales: su concepto, la diagramación y elaboración. Introducción a los sistemas de referencia: Sistema Geocéntrico WGS84, Sistema Geodésico UTM y los sistemas utilizados en Argentina en el presente y en el pasado (ej. POSTGAR y Campo Inchauspe).
+
+### III – INTRODUCCIÓN A LOS SISTEMAS DE INFORMACIÓN GEOGRÁFICA
+
+Definiciones de los Sistemas de Información Geográficos. Los componentes y las funciones de los Sistemas. Formas de representar y almacenar la información espacial en estos sistemas. El ordenamiento de la información. Cómo se almacena la información espacial en los Sistemas de Información Geográficos. La estructura de los archivos: el archivo vectorial, las grillas y las imágenes, ventajas y desventajas de cada uno. Uso de programas informáticos con mayor aceptación para los Sistemas de Información Geográficos.
+
+### IV – INTRODUCCIÓN A LAS HERRAMIENTAS DISPONIBLES PARA LA INCORPORACIÓN, MANIPULACIÓN, GESTIÓN Y ANÁLISIS DE LOS DATOS ESPACIALES
+
+Creación de bases de datos propias a partir de datos de campo con o sin GPS. Transformación de los datos a los distintos sistemas de referencia. Registro de fotografías aéreas y/o mapas digitalizados (escaneados). Incorporación de la información espacial desde estas fuentes. Incorporación de la información espacial desde fuentes externas. Herramientas: cálculos de área, perímetro, distancia, densidad, áreas de influencia (áreas buffer) y contigüidad.
+
+### V – METODOLOGÍAS PARA LA REGIONALIZACIÓN: IDENTIFICACIÓN DE ESPACIOS GEOGRÁFICOS HOMOGÉNEOS
+
+La complejidad del espacio geográfico en cuanto al número de variables y sus posibles interacciones. La ambigüedad del criterio de homogeneidad en relación a la escala espacial y del objetivo de la regionalización. La regionalización del espacio geográfico en función del uso y el manejo de los recursos naturales. Variables de delimitación y variables de caracterización. Aproximaciones cualitativas y cuantitativas: enfoque genético, paisajístico y paramétrico. Características de los enfoques. Inventario, clasificación, relevamiento y monitoreo de recursos naturales. Sistemas de clasificación de los ambientes (ej. ambientes terrestres y humedales).
+
+### VI – MAPAS DE RIESGO Y ORDENAMIENTO TERRITORIAL
+El riesgo ambiental y los mapas de riesgo. Definición, cuantificación y geolocalización del riesgo, las amenazas y vulnerabilidades. Herramientas de gestión territorial: ordenamiento territorial y planificación ambiental participativa. Nociones y objetivos del ordenamiento territorial. Las principales etapas y actores del proceso.
+
+### VII – PROBLEMÁTICAS ECOLÓGICAS ACTUALES A ESCALAS DE PAISAJE Y REGIÓN EN ARGENTINA
+
+La ecología de paisajes y regiones aplicado a problemas actuales en nuestro país: cambios en el uso de la tierra y la agricultura y ganadería como sistemas ecológicos y transformadores. Algunas regiones de la Argentina como casos de estudio: Pampa, Delta y Chaco. Historia de la ocupación del territorio y sus conflictos pasados, presentes y futuros. Sus características naturales y productivas y el grado de ajuste entre la oferta natural y la demanda social.
+
+### VIII – ESTRUCTURA Y FUNCIONAMIENTO DE LOS PAISAJES Y LAS REGIONES
+
+Nociones y herramientas para el estudio de las relaciones patrón-proceso. Los paisajes y sus elementos: sus características (topología y estructura) y funcionamiento.Índices y métricas de paisajes. Flujos de energía, materia y especies en el paisaje. Dinámica de los paisajes. Bordes y límites: interacciones entre ecosistemas adyacentes. Integridad del paisaje.
+
+### IX – GEOESTADÍSTICA, AUTOCORRELACION E INTERPOLACION ESPACIAL
+
+Geoestadística y estadística espacial. Autocorrelación e interpolación espacial. Inversa distancia ponderada. Variable aleatoria regionalizada, covarianza, correlograma y semivariograma. Estacionariedad, Isotropía y anisotropía. Kriging.
+
+### X – MODELOS ESPACIALMENTE EXPLÍCITOS
+
+Teoría y aplicación de los modelos de distribución de especies, modelado de nicho y modelos de aptitud de hábitat a distintas escalas espaciales. Modelos de dispersión de fauna y conectividad del paisaje usando modelos de costo de pasaje. Modelos neutrales. Modelos espaciales dinámicos. Aplicaciones.
+
+### XI – INTRODUCCIÓN A LA TELEDETECCIÓN
+
+Sistemas de observación de la superficie terrestre. Teledetección satelital. Bases físicas de la teledetección. Los datos, el espectro electromagnético y su contenido de información: mecanismos de interacción entre la señal y los objetos de la superficie. Sistemas satelitales (ópticos, microondas (pasivas y activas), térmicos, laser, hiperespectrales): actualidad y futuro. Inventario, relevamiento y monitoreo de ecosistemas: clasificaciones supervizadas y no supervisadas. Evaluación de los productos de teledetección. Monitoreo de parámetros biofísicos de los ecosistemas. Tipo y calidad de productos de libre acceso: MODIS (LAI, EVI, FPAR, coberturas) y NOAA (series de tiempo de NDVI).
+
